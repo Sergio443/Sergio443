@@ -49,8 +49,8 @@
 
 ## 📊 Статистика GitHub
 
-![Твоя GitHub статистика](https://github-readme-stats.vercel.app/api?username=твой-аккаунт&show_icons=true&theme=radical)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=твой-аккаунт&layout=compact&theme=radical)
+![Твоя GitHub статистика](https://github-readme-stats.vercel.app/api?username=Sergio443&show_icons=true&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio443&layout=compact&theme=radical)
 
 ---
 
